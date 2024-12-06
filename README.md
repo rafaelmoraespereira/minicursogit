@@ -1,0 +1,2 @@
+# minicursogit
+Minicurso Git EXPOTEC
